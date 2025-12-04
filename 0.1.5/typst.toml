@@ -1,5 +1,5 @@
 [package]
-name = "clean-hwr"
+name = "own-clean-hwr"
 version = "0.1.5"
 compiler = "0.13.1"
 entrypoint = "lib.typ"
